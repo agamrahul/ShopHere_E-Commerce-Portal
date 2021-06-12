@@ -1,4 +1,4 @@
-# ShopHere - E-commerce Portal
+# ShopHere : E-commerce Portal
 <p>
   ShopHere is a Web Application similar to an E-commerce portal. It has three different users ADMIN, MANAGER, CUSTOMER. 
   The project uses MySQL database to store products, user and orders related information. Session management, Login & Logout, Errors are also handled in this project.
